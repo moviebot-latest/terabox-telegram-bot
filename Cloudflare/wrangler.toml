@@ -1,0 +1,6 @@
+name = "terabox-resolver"
+main = "src/index.js"
+compatibility_date = "2026-09-12"
+
+[vars]
+# RESOLVER_BACKEND = "https://your-authorized-resolver.example/api"
